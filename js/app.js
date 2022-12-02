@@ -35,3 +35,5 @@ for (let i = 0; i < divblocks.length; i++) {
     // console.log(divblocks[i].getElementsByTagName('h3')[0].innerHTML = "New Heading");  
 
 }
+
+document.getElementById(side-block).innerHTML = "Hello Javascript";
